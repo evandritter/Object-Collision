@@ -1,0 +1,13 @@
+C:\Users\evand\source\repos\GitHub\Collision\bin\Debug\netcoreapp3.1\Collision.exe
+C:\Users\evand\source\repos\GitHub\Collision\bin\Debug\netcoreapp3.1\Collision.deps.json
+C:\Users\evand\source\repos\GitHub\Collision\bin\Debug\netcoreapp3.1\Collision.runtimeconfig.json
+C:\Users\evand\source\repos\GitHub\Collision\bin\Debug\netcoreapp3.1\Collision.runtimeconfig.dev.json
+C:\Users\evand\source\repos\GitHub\Collision\bin\Debug\netcoreapp3.1\Collision.dll
+C:\Users\evand\source\repos\GitHub\Collision\bin\Debug\netcoreapp3.1\Collision.pdb
+C:\Users\evand\source\repos\GitHub\Collision\obj\Debug\netcoreapp3.1\Collision.csprojAssemblyReference.cache
+C:\Users\evand\source\repos\GitHub\Collision\obj\Debug\netcoreapp3.1\Collision.AssemblyInfoInputs.cache
+C:\Users\evand\source\repos\GitHub\Collision\obj\Debug\netcoreapp3.1\Collision.AssemblyInfo.cs
+C:\Users\evand\source\repos\GitHub\Collision\obj\Debug\netcoreapp3.1\Collision.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\GitHub\Collision\obj\Debug\netcoreapp3.1\Collision.dll
+C:\Users\evand\source\repos\GitHub\Collision\obj\Debug\netcoreapp3.1\Collision.pdb
+C:\Users\evand\source\repos\GitHub\Collision\obj\Debug\netcoreapp3.1\Collision.genruntimeconfig.cache
